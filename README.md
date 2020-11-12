@@ -1,13 +1,12 @@
 ## Excel read and write for android(support xls,xlsx)
 
-The code is relatively simple, you can see the effect after running.
+An android app that read excel file and generate address from latitude longitude or generate latitude longitude from address. One can change column name or column index according to your requirements and can export the excel file to specified path in device storage.
 
 ### libs
 `Apache POI`
 
 ### screenshot
-![](screenshot/gif.gif)
+![](screenshot/appinterface.gif)
 
 ### thanks
-1. https://github.com/andruhon/android5xlsx
-2. https://blog.csdn.net/u014743890/article/details/91045033
+1. https://github.com/yangxiaoge/AndroidExcelReadWrite
